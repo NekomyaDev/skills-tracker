@@ -1,12 +1,102 @@
 [
   {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "JensFan-530/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "JensFan-530/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:16:53Z",
+    "url": "https://github.com/JensFan-530/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  \u9ad8\u4ef7\u503c\u7684 AI \u6280\u80fd",
+    "id": "seaworld008/Commonly-used-high-value-skills",
+    "language": "Python",
+    "name": "seaworld008/Commonly-used-high-value-skills",
+    "stars": 72,
+    "updated_at": "2026-10-12T01:16:52Z",
+    "url": "https://github.com/seaworld008/Commonly-used-high-value-skills"
+  },
+  {
+    "description": "Community-contributed AI skills for New Zealand public data \u2014 LINZ, Stats NZ, Auckland Transport, weather, and more.",
+    "id": "thecolab-ai/.skills",
+    "language": "Python",
+    "name": "thecolab-ai/.skills",
+    "stars": 33,
+    "updated_at": "2026-10-12T01:16:43Z",
+    "url": "https://github.com/thecolab-ai/.skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "IlaydaWebber/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "IlaydaWebber/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:16:40Z",
+    "url": "https://github.com/IlaydaWebber/skills-introduction-to-github"
+  },
+  {
+    "description": "A Claude Code harness \u2014 subagent review personas, permission hooks that deny the irreversible floor, and a generic skill",
+    "id": "tedeuxx/tadeumendonca-skills",
+    "language": "Shell",
+    "name": "tedeuxx/tadeumendonca-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:16:24Z",
+    "url": "https://github.com/tedeuxx/tadeumendonca-skills"
+  },
+  {
     "description": "Use agentic workflows to troubleshoot your PC",
     "id": "jvickusa/tech-support-skills",
-    "language": "\u2014",
+    "language": "Python",
     "name": "jvickusa/tech-support-skills",
     "stars": 0,
-    "updated_at": "2026-10-12T01:15:27Z",
+    "updated_at": "2026-10-12T01:16:23Z",
     "url": "https://github.com/jvickusa/tech-support-skills"
+  },
+  {
+    "description": "Collection of agent skills (Claude Code / Codex). Each subdir is a self-contained SKILL.md.",
+    "id": "adshine/skills",
+    "language": "Python",
+    "name": "adshine/skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:16:02Z",
+    "url": "https://github.com/adshine/skills"
+  },
+  {
+    "description": "Exercise: Resolve Merge Conflicts",
+    "id": "HandaIBAGZ/skills-resolve-merge-conflicts",
+    "language": "\u2014",
+    "name": "HandaIBAGZ/skills-resolve-merge-conflicts",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:15:53Z",
+    "url": "https://github.com/HandaIBAGZ/skills-resolve-merge-conflicts"
+  },
+  {
+    "description": "Installable Agent Skills for Scholar Sidekick \u2014 turn DOI/PMID/ISBN/arXiv/ISSN/ADS/WHO IRIS into citations (10,000+ CSL s",
+    "id": "mlava/scholar-sidekick-skills",
+    "language": "JavaScript",
+    "name": "mlava/scholar-sidekick-skills",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:15:42Z",
+    "url": "https://github.com/mlava/scholar-sidekick-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 39,
+    "updated_at": "2026-10-12T01:15:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 24,
+    "updated_at": "2026-10-12T01:15:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T01:15:22Z",
     "url": "https://github.com/LoxtepInc/loxtep-plugins-skills"
-  },
-  {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "HandaIBAGZ/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "HandaIBAGZ/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:15:21Z",
-    "url": "https://github.com/HandaIBAGZ/skills-resolve-merge-conflicts"
   },
   {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
@@ -284,17 +365,8 @@
     "language": "\u2014",
     "name": "saangelidis/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-10-12T01:15:13Z",
+    "updated_at": "2026-10-12T01:16:54Z",
     "url": "https://github.com/saangelidis/skills-communicate-using-markdown"
-  },
-  {
-    "description": "Community-contributed AI skills for New Zealand public data \u2014 LINZ, Stats NZ, Auckland Transport, weather, and more.",
-    "id": "thecolab-ai/.skills",
-    "language": "Python",
-    "name": "thecolab-ai/.skills",
-    "stars": 33,
-    "updated_at": "2026-10-12T01:12:56Z",
-    "url": "https://github.com/thecolab-ai/.skills"
   },
   {
     "description": "Exercise: Review pull requests",
@@ -826,77 +898,5 @@
     "stars": 9,
     "updated_at": "2026-10-12T01:01:27Z",
     "url": "https://github.com/sunitghub/canon-skills"
-  },
-  {
-    "description": "\u5907\u4efd",
-    "id": "besscroft/skills-backup",
-    "language": "TypeScript",
-    "name": "besscroft/skills-backup",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:01:32Z",
-    "url": "https://github.com/besscroft/skills-backup"
-  },
-  {
-    "description": "Installable, plugin-ready skills that give coding agents disciplined workflows, from code standards and review gates to ",
-    "id": "Vivswan/skills",
-    "language": "TypeScript",
-    "name": "Vivswan/skills",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:01:22Z",
-    "url": "https://github.com/Vivswan/skills"
-  },
-  {
-    "description": "Agent skills for Oracle APEX apps as APEXlang (.apx): architecture (single write-path), Builder-git sync guard, and brow",
-    "id": "Pp-py/apexlang-skills",
-    "language": "Shell",
-    "name": "Pp-py/apexlang-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:01:20Z",
-    "url": "https://github.com/Pp-py/apexlang-skills"
-  },
-  {
-    "description": "Exercise: Review pull requests",
-    "id": "Surya80840/skills-review-pull-requests",
-    "language": "HTML",
-    "name": "Surya80840/skills-review-pull-requests",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:01:17Z",
-    "url": "https://github.com/Surya80840/skills-review-pull-requests"
-  },
-  {
-    "description": "DuMate personal skill files and automation scripts",
-    "id": "wowobai/dumate-skills",
-    "language": "Python",
-    "name": "wowobai/dumate-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:00:59Z",
-    "url": "https://github.com/wowobai/dumate-skills"
-  },
-  {
-    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
-    "id": "kingirvingcgarcia/skills-expand-your-team-with-copilot",
-    "language": "JavaScript",
-    "name": "kingirvingcgarcia/skills-expand-your-team-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:00:53Z",
-    "url": "https://github.com/kingirvingcgarcia/skills-expand-your-team-with-copilot"
-  },
-  {
-    "description": "Claude Skills for a brokerage team (reference build): house rules, voice note debriefs, CRM writes only after a read bac",
-    "id": "Ahmedsukaik/claude-skills-team-os",
-    "language": "Python",
-    "name": "Ahmedsukaik/claude-skills-team-os",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:00:51Z",
-    "url": "https://github.com/Ahmedsukaik/claude-skills-team-os"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "03hgryan/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "03hgryan/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:00:38Z",
-    "url": "https://github.com/03hgryan/skills-introduction-to-github"
   }
 ]
