@@ -1,11 +1,92 @@
 [
   {
+    "description": "",
+    "id": "designer976/Skills-e-Agents",
+    "language": "PowerShell",
+    "name": "designer976/Skills-e-Agents",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:30:22Z",
+    "url": "https://github.com/designer976/Skills-e-Agents"
+  },
+  {
+    "description": "Next Gen Skills Prototype",
+    "id": "leotte/next-gen-skills",
+    "language": "HTML",
+    "name": "leotte/next-gen-skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:30:16Z",
+    "url": "https://github.com/leotte/next-gen-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-16T20:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "plamen911/fire-service-skills",
+    "language": "Python",
+    "name": "plamen911/fire-service-skills",
+    "stars": 1,
+    "updated_at": "2026-10-16T20:29:49Z",
+    "url": "https://github.com/plamen911/fire-service-skills"
+  },
+  {
+    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
+    "id": "KrishP147/skills",
+    "language": "Python",
+    "name": "KrishP147/skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:29:49Z",
+    "url": "https://github.com/KrishP147/skills"
+  },
+  {
+    "description": "SkillsRegistry by Cognium: discover MCP servers and agent skills with explicit trust and scan-coverage signals. Apache-2",
+    "id": "cogniumhq/skillsregistry",
+    "language": "TypeScript",
+    "name": "cogniumhq/skillsregistry",
+    "stars": 4,
+    "updated_at": "2026-10-16T20:30:17Z",
+    "url": "https://github.com/cogniumhq/skillsregistry"
+  },
+  {
+    "description": "",
+    "id": "MSpiechowicz/harness-useful-skills",
+    "language": "JavaScript",
+    "name": "MSpiechowicz/harness-useful-skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:29:35Z",
+    "url": "https://github.com/MSpiechowicz/harness-useful-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 24,
+    "updated_at": "2026-10-16T20:29:22Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "amanjc81-code/skillSwap",
+    "language": "JavaScript",
+    "name": "amanjc81-code/skillSwap",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:29:21Z",
+    "url": "https://github.com/amanjc81-code/skillSwap"
+  },
+  {
     "description": "A set of skills to help with publishing CAD to Thingiverse and Printables",
     "id": "ScottGibb/CAD-Publishing-Skills",
     "language": "Python",
     "name": "ScottGibb/CAD-Publishing-Skills",
     "stars": 0,
-    "updated_at": "2026-10-16T20:29:14Z",
+    "updated_at": "2026-10-16T20:29:44Z",
     "url": "https://github.com/ScottGibb/CAD-Publishing-Skills"
   },
   {
@@ -18,15 +99,6 @@
     "url": "https://github.com/SkillsetMind-app/skillset-foundation"
   },
   {
-    "description": "",
-    "id": "MSpiechowicz/harness-useful-skills",
-    "language": "JavaScript",
-    "name": "MSpiechowicz/harness-useful-skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:28:55Z",
-    "url": "https://github.com/MSpiechowicz/harness-useful-skills"
-  },
-  {
     "description": "\u4e2a\u4eba\u4f7f\u7528\u7684agent skills",
     "id": "hmjBill/skills",
     "language": "Python",
@@ -34,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-10-16T20:28:51Z",
     "url": "https://github.com/hmjBill/skills"
+  },
+  {
+    "description": "Skill notes and examples",
+    "id": "rflvfx/skills-testing",
+    "language": "JavaScript",
+    "name": "rflvfx/skills-testing",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:28:37Z",
+    "url": "https://github.com/rflvfx/skills-testing"
   },
   {
     "description": "Ontology-mediated sequential skills for project execution, compact context, evidence, blockers and uncertainty.",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "xdCloudy/hermes-skillsense",
     "stars": 2,
-    "updated_at": "2026-10-16T20:28:18Z",
+    "updated_at": "2026-10-16T20:29:54Z",
     "url": "https://github.com/xdCloudy/hermes-skillsense"
   },
   {
@@ -320,7 +401,7 @@
     "language": "\u2014",
     "name": "itsme9891/skills-introduction-to-github-1",
     "stars": 0,
-    "updated_at": "2026-10-16T20:24:43Z",
+    "updated_at": "2026-10-16T20:30:05Z",
     "url": "https://github.com/itsme9891/skills-introduction-to-github-1"
   },
   {
@@ -446,7 +527,7 @@
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1465,
-    "updated_at": "2026-10-16T20:25:57Z",
+    "updated_at": "2026-10-16T20:29:22Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
@@ -574,15 +655,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:22:17Z",
     "url": "https://github.com/api-evangelist/open-skills"
-  },
-  {
-    "description": "",
-    "id": "plamen911/fire-service-skills",
-    "language": "Python",
-    "name": "plamen911/fire-service-skills",
-    "stars": 1,
-    "updated_at": "2026-10-16T20:21:54Z",
-    "url": "https://github.com/plamen911/fire-service-skills"
   },
   {
     "description": "Exercise: GitHub Copilot Code Review",
@@ -826,77 +898,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T20:17:52Z",
     "url": "https://github.com/Ottili-ONE/skills"
-  },
-  {
-    "description": "Reusable web development skills for WordPress and custom software projects, including UI/UX, development, SEO, integrati",
-    "id": "halilorhan/web-development-skills",
-    "language": "Python",
-    "name": "halilorhan/web-development-skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:17:43Z",
-    "url": "https://github.com/halilorhan/web-development-skills"
-  },
-  {
-    "description": "",
-    "id": "MehmedSuleiman/skillsTrade",
-    "language": "HTML",
-    "name": "MehmedSuleiman/skillsTrade",
-    "stars": 1,
-    "updated_at": "2026-10-16T20:17:31Z",
-    "url": "https://github.com/MehmedSuleiman/skillsTrade"
-  },
-  {
-    "description": "Skills platform validation working instance \u2014 2nd team",
-    "id": "heymishy/skills-platform-val",
-    "language": "JavaScript",
-    "name": "heymishy/skills-platform-val",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:17:18Z",
-    "url": "https://github.com/heymishy/skills-platform-val"
-  },
-  {
-    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot",
-    "id": "tech-leads-club/agent-skills",
-    "language": "TypeScript",
-    "name": "tech-leads-club/agent-skills",
-    "stars": 7062,
-    "updated_at": "2026-10-16T20:17:00Z",
-    "url": "https://github.com/tech-leads-club/agent-skills"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:17:01Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Skill notes and examples",
-    "id": "rflvfx/skills-dotnet",
-    "language": "C#",
-    "name": "rflvfx/skills-dotnet",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:16:42Z",
-    "url": "https://github.com/rflvfx/skills-dotnet"
-  },
-  {
-    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
-    "id": "KrishP147/skills",
-    "language": "Python",
-    "name": "KrishP147/skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:28:46Z",
-    "url": "https://github.com/KrishP147/skills"
-  },
-  {
-    "description": "",
-    "id": "kirstenhosic/UX-Research-Skills",
-    "language": "Python",
-    "name": "kirstenhosic/UX-Research-Skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:16:31Z",
-    "url": "https://github.com/kirstenhosic/UX-Research-Skills"
   }
 ]
