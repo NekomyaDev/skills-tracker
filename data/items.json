@@ -5,152 +5,44 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 127,
-    "updated_at": "2026-10-18T08:30:14Z",
+    "updated_at": "2026-10-18T08:45:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "Claude Code Skills\u3001Agent Skills \u548c OpenClaw Skills \u7684\u7edf\u4e00\u96c6\u5408\u4ed3\u5e93",
-    "id": "kintzhao/anySkills",
+    "description": "repo for storing and testing skills.md",
+    "id": "walliscode/skills",
+    "language": "Python",
+    "name": "walliscode/skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:45:00Z",
+    "url": "https://github.com/walliscode/skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "Padmanathan-max/skills-introduction-to-github",
     "language": "\u2014",
-    "name": "kintzhao/anySkills",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:30:12Z",
-    "url": "https://github.com/kintzhao/anySkills"
-  },
-  {
-    "description": "",
-    "id": "ngram/skills",
-    "language": "JavaScript",
-    "name": "ngram/skills",
+    "name": "Padmanathan-max/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-10-18T08:30:06Z",
-    "url": "https://github.com/ngram/skills"
+    "updated_at": "2026-10-18T08:45:00Z",
+    "url": "https://github.com/Padmanathan-max/skills-introduction-to-github"
   },
   {
-    "description": "",
-    "id": "plamen911/fire-service-skills",
-    "language": "Python",
-    "name": "plamen911/fire-service-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:30:04Z",
-    "url": "https://github.com/plamen911/fire-service-skills"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:29:50Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation",
-    "id": "sickn33/agentic-awesome-skills",
-    "language": "Python",
-    "name": "sickn33/agentic-awesome-skills",
-    "stars": 47812,
-    "updated_at": "2026-10-18T08:29:50Z",
-    "url": "https://github.com/sickn33/agentic-awesome-skills"
-  },
-  {
-    "description": "",
-    "id": "heymishy/skills-repo",
-    "language": "JavaScript",
-    "name": "heymishy/skills-repo",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:29:43Z",
-    "url": "https://github.com/heymishy/skills-repo"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "Tinberzheng/skills-introduction-to-github",
+    "description": "\u65e5\u5e38\u751f\u6d3b\u306e\u305f\u3081\u306e\u30b9\u30ad\u30eb",
+    "id": "SogoKato/seikatsu-skills",
     "language": "\u2014",
-    "name": "Tinberzheng/skills-introduction-to-github",
+    "name": "SogoKato/seikatsu-skills",
     "stars": 0,
-    "updated_at": "2026-10-18T08:29:34Z",
-    "url": "https://github.com/Tinberzheng/skills-introduction-to-github"
+    "updated_at": "2026-10-18T08:44:53Z",
+    "url": "https://github.com/SogoKato/seikatsu-skills"
   },
   {
     "description": "",
-    "id": "DennisVermeulen/skills",
-    "language": "\u2014",
-    "name": "DennisVermeulen/skills",
+    "id": "GunserProMAx/SkillStartPro",
+    "language": "HTML",
+    "name": "GunserProMAx/SkillStartPro",
     "stars": 0,
-    "updated_at": "2026-10-18T08:29:10Z",
-    "url": "https://github.com/DennisVermeulen/skills"
-  },
-  {
-    "description": "Agent skill marketplace for Claude Code and Codex, with pinned vendored packages and drift checks.",
-    "id": "trycopilotai/skills",
-    "language": "Python",
-    "name": "trycopilotai/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:29:09Z",
-    "url": "https://github.com/trycopilotai/skills"
-  },
-  {
-    "description": "Source-backed Seedream 5.0 Pro prompts with real result images, reference editing, cinematic workflows, and multilingual",
-    "id": "imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
-    "stars": 8,
-    "updated_at": "2026-10-18T08:28:56Z",
-    "url": "https://github.com/imagineVid/Awesome-seedream-5-pro-prompts-and-skills"
-  },
-  {
-    "description": "\u81ea\u5df1\u7684skills",
-    "id": "kungful/me_skills_pi",
-    "language": "Python",
-    "name": "kungful/me_skills_pi",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:36Z",
-    "url": "https://github.com/kungful/me_skills_pi"
-  },
-  {
-    "description": "",
-    "id": "s0up4200/skills",
-    "language": "Shell",
-    "name": "s0up4200/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:25Z",
-    "url": "https://github.com/s0up4200/skills"
-  },
-  {
-    "description": "",
-    "id": "washedupdeveloper/hermes-skills",
-    "language": "Python",
-    "name": "washedupdeveloper/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:23Z",
-    "url": "https://github.com/washedupdeveloper/hermes-skills"
-  },
-  {
-    "description": "\u5b89\u88c5\u5373\u81ea\u5e26mattpocock/skills v1.3.1\u768427\u4e2a\u5de5\u7a0b\u4e0e\u6548\u7387\u6280\u80fd\uff0c\u65e0\u9700\u624b\u52a8\u88c5\u6280\u80fd\u3002400\u4ebftoken\u6253\u9020\u672c\u63d2\u4ef6\uff0c\u5728\u539f\u59cb\u6280\u80fd\u4e4b\u4e0a\u63d0\u4f9b10\u500d\u7684\u5f00\u53d1\u6548\u7387\uff0c\u4e5f\u80fd\u5e2e\u52a9\u65b0\u624b\u66f4\u5feb\u4e0a\u624b\u8be5\u6280\u80fd\u5957\u4ef6\u3002\u5168\u529b\u652f\u6301GitHub issue\uff1bMarkd",
-    "id": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "language": "TypeScript",
-    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "stars": 164,
-    "updated_at": "2026-10-18T08:28:13Z",
-    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
-  },
-  {
-    "description": "",
-    "id": "louietyj/claude-skills",
-    "language": "Python",
-    "name": "louietyj/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:05Z",
-    "url": "https://github.com/louietyj/claude-skills"
-  },
-  {
-    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
-    "id": "cecilion-13/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "language": "\u2014",
-    "name": "cecilion-13/skills-scale-institutional-knowledge-using-copilot-spaces",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:02Z",
-    "url": "https://github.com/cecilion-13/skills-scale-institutional-knowledge-using-copilot-spaces"
+    "updated_at": "2026-10-18T08:44:49Z",
+    "url": "https://github.com/GunserProMAx/SkillStartPro"
   },
   {
     "description": "Agent skills for babysitting pull requests until they merge",
@@ -158,350 +50,161 @@
     "language": "TypeScript",
     "name": "Silthus/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-18T08:27:38Z",
+    "updated_at": "2026-10-18T08:44:42Z",
     "url": "https://github.com/Silthus/agent-skills"
   },
   {
-    "description": "Latest H3 + Seedance manju video skills (channel interview, adapt, anime/3D assets)",
-    "id": "fzheng466/manju-skills",
-    "language": "Python",
-    "name": "fzheng466/manju-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:27:00Z",
-    "url": "https://github.com/fzheng466/manju-skills"
-  },
-  {
-    "description": "Read public social media posts, comments, profiles and trends from 18 platforms. Pay per call.",
-    "id": "socialtoai/socialtoai-skills",
-    "language": "\u2014",
-    "name": "socialtoai/socialtoai-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:42Z",
-    "url": "https://github.com/socialtoai/socialtoai-skills"
-  },
-  {
-    "description": "",
-    "id": "jyje/skills",
-    "language": "JavaScript",
-    "name": "jyje/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:43Z",
-    "url": "https://github.com/jyje/skills"
-  },
-  {
-    "description": "Agent skills for design engineering: OKLCH palettes, motion polish, multi-app design systems, visual regression, favicon",
-    "id": "Adamparishspok/skills",
-    "language": "CSS",
-    "name": "Adamparishspok/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:32Z",
-    "url": "https://github.com/Adamparishspok/skills"
-  },
-  {
-    "description": "",
-    "id": "rodritimecoder/academic-agent-skills",
-    "language": "HTML",
-    "name": "rodritimecoder/academic-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:30Z",
-    "url": "https://github.com/rodritimecoder/academic-agent-skills"
-  },
-  {
-    "description": "Pre-wired MCP servers as SwarmKit skills \u2014 each one started and asked, nightly.",
-    "id": "delivstat/swarmkit-skills",
-    "language": "Python",
-    "name": "delivstat/swarmkit-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:30Z",
-    "url": "https://github.com/delivstat/swarmkit-skills"
-  },
-  {
-    "description": "AntiRLHF is a governance model for agents, developed from my long-term use of Chat, Research Agents, and Coding Agents. ",
-    "id": "ArsvineZhu/arsvine-skills",
-    "language": "Python",
-    "name": "ArsvineZhu/arsvine-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:26:25Z",
-    "url": "https://github.com/ArsvineZhu/arsvine-skills"
-  },
-  {
-    "description": "LLM agent skills for researching, scripting, creating, editing, and reviewing videos of any format.",
-    "id": "pritoo733/video-creation-and-editing-skills",
-    "language": "Python",
-    "name": "pritoo733/video-creation-and-editing-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:26:24Z",
-    "url": "https://github.com/pritoo733/video-creation-and-editing-skills"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:20Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Exercise: Work with Workflow Artifacts",
-    "id": "ysjj/skills-workflow-artifacts",
-    "language": "JavaScript",
-    "name": "ysjj/skills-workflow-artifacts",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:20Z",
-    "url": "https://github.com/ysjj/skills-workflow-artifacts"
-  },
-  {
-    "description": "",
-    "id": "oriolj/LLM_SKILLS",
-    "language": "Python",
-    "name": "oriolj/LLM_SKILLS",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:19Z",
-    "url": "https://github.com/oriolj/LLM_SKILLS"
-  },
-  {
-    "description": "Awesome skills to use OpenAI's Dot productively!",
-    "id": "SeungheonOh/dot-skills",
-    "language": "Python",
-    "name": "SeungheonOh/dot-skills",
-    "stars": 2,
-    "updated_at": "2026-10-18T08:26:12Z",
-    "url": "https://github.com/SeungheonOh/dot-skills"
-  },
-  {
-    "description": "Skills for AI coding agents: planning, review, operations and domain workflows.",
-    "id": "bookchaowalit/platform-agent-skills",
-    "language": "JavaScript",
-    "name": "bookchaowalit/platform-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:03Z",
-    "url": "https://github.com/bookchaowalit/platform-agent-skills"
-  },
-  {
-    "description": "",
-    "id": "dgarciahz/claude-research-skills",
-    "language": "Shell",
-    "name": "dgarciahz/claude-research-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:00Z",
-    "url": "https://github.com/dgarciahz/claude-research-skills"
-  },
-  {
-    "description": "",
-    "id": "AchatesRay/lei-skills",
-    "language": "Python",
-    "name": "AchatesRay/lei-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:58Z",
-    "url": "https://github.com/AchatesRay/lei-skills"
-  },
-  {
-    "description": "an automated hourly snapshot of muse's skills",
-    "id": "sneakers-the-rat/muse-skills",
-    "language": "TypeScript",
-    "name": "sneakers-the-rat/muse-skills",
-    "stars": 16,
-    "updated_at": "2026-10-18T08:25:54Z",
-    "url": "https://github.com/sneakers-the-rat/muse-skills"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "Python",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:35Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
-  },
-  {
-    "description": "",
-    "id": "dysinger/lean-skills",
-    "language": "\u2014",
-    "name": "dysinger/lean-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:30Z",
-    "url": "https://github.com/dysinger/lean-skills"
-  },
-  {
-    "description": "Structured API skills that turn Continuity into an agent-native cloud. Projects, folders, files, asset search, story gra",
-    "id": "StageContinuity/ContinuitySkills",
-    "language": "JavaScript",
-    "name": "StageContinuity/ContinuitySkills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:27Z",
-    "url": "https://github.com/StageContinuity/ContinuitySkills"
-  },
-  {
-    "description": "Source-backed Nano Banana prompts with real result images, reusable design workflows, and multilingual guides.",
-    "id": "imagineVid/Awesome-nano-banana-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-nano-banana-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:25:10Z",
-    "url": "https://github.com/imagineVid/Awesome-nano-banana-prompts-and-skills"
-  },
-  {
-    "description": "Build data products with dbt on Google BigQuery and integrate them with Entropy Data \u2014 coding-agent plugin (Claude Code,",
-    "id": "dataproduct-skills/dataproduct-builder-dbt-bigquery",
-    "language": "Shell",
-    "name": "dataproduct-skills/dataproduct-builder-dbt-bigquery",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:08Z",
-    "url": "https://github.com/dataproduct-skills/dataproduct-builder-dbt-bigquery"
-  },
-  {
-    "description": "\u81ea\u5efa\u751f\u6210\u7684\u6280\u80fd\uff0c\u5f00\u6e90\u53ef\u7528",
-    "id": "leiyikang-tech/skills",
-    "language": "Python",
-    "name": "leiyikang-tech/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:08Z",
-    "url": "https://github.com/leiyikang-tech/skills"
-  },
-  {
-    "description": "Canonify agent skills \u2014 npx skills add getcanonify/skills (mirrored from the canonify monorepo)",
-    "id": "getcanonify/skills",
-    "language": "\u2014",
-    "name": "getcanonify/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:04Z",
-    "url": "https://github.com/getcanonify/skills"
-  },
-  {
-    "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
-    "id": "daymade/claude-code-skills",
-    "language": "Python",
-    "name": "daymade/claude-code-skills",
-    "stars": 1475,
-    "updated_at": "2026-10-18T08:25:03Z",
-    "url": "https://github.com/daymade/claude-code-skills"
-  },
-  {
-    "description": "Build data products with dbt on Databricks and integrate them with Entropy Data \u2014 coding-agent plugin (Claude Code, Code",
-    "id": "dataproduct-skills/dataproduct-builder-dbt-databricks",
-    "language": "Shell",
-    "name": "dataproduct-skills/dataproduct-builder-dbt-databricks",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:03Z",
-    "url": "https://github.com/dataproduct-skills/dataproduct-builder-dbt-databricks"
-  },
-  {
-    "description": "Exercise: Communicate using Markdown",
-    "id": "youyu9/skills-communicate-using-markdown",
-    "language": "\u2014",
-    "name": "youyu9/skills-communicate-using-markdown",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:24:50Z",
-    "url": "https://github.com/youyu9/skills-communicate-using-markdown"
-  },
-  {
-    "description": "Build data products with dbt and integrate them with Entropy Data \u2014 coding-agent plugin (Claude Code, Codex, Copilot CLI",
-    "id": "dataproduct-skills/dataproduct-builder-dbt-snowflake",
-    "language": "Shell",
-    "name": "dataproduct-skills/dataproduct-builder-dbt-snowflake",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:24:49Z",
-    "url": "https://github.com/dataproduct-skills/dataproduct-builder-dbt-snowflake"
-  },
-  {
-    "description": "Understand how a business actually works before deciding what AI should automate: evidence-gated discovery, workflow map",
-    "id": "KanG-ciyuan/enterprise-ai-diagnostic-skills",
-    "language": "JavaScript",
-    "name": "KanG-ciyuan/enterprise-ai-diagnostic-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:24:30Z",
-    "url": "https://github.com/KanG-ciyuan/enterprise-ai-diagnostic-skills"
-  },
-  {
-    "description": "Shared agent skills for the Champions Group teams. Publishable to Claude Code, Cursor, Gemini or any skills runtime.",
-    "id": "Champ-Deep/champ-skills",
-    "language": "HTML",
-    "name": "Champ-Deep/champ-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:24:19Z",
-    "url": "https://github.com/Champ-Deep/champ-skills"
-  },
-  {
-    "description": "Windows-first PowerShell 7 skills and MCP manager with reproducible bootstrap and portable releases, public Git developm",
-    "id": "sciman-top/skills-manager",
-    "language": "PowerShell",
-    "name": "sciman-top/skills-manager",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:50Z",
-    "url": "https://github.com/sciman-top/skills-manager"
-  },
-  {
-    "description": "",
-    "id": "dulltackle/kangkang-skills",
-    "language": "Python",
-    "name": "dulltackle/kangkang-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:24:04Z",
-    "url": "https://github.com/dulltackle/kangkang-skills"
-  },
-  {
-    "description": "A growing collection of standalone agent skills by Jiaming Shi. Each folder is a self-contained Skill package \u2014 its own ",
-    "id": "JiamingShi-JsPhys/agent-skills",
-    "language": "Python",
-    "name": "JiamingShi-JsPhys/agent-skills",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:23:51Z",
-    "url": "https://github.com/JiamingShi-JsPhys/agent-skills"
-  },
-  {
-    "description": "Claude Code skills: testable architecture (chris) & deep code auditing (margaret)",
-    "id": "polaminggkub-debug/legend-skills",
-    "language": "Python",
-    "name": "polaminggkub-debug/legend-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:23:40Z",
-    "url": "https://github.com/polaminggkub-debug/legend-skills"
-  },
-  {
-    "description": "A modular collection of behavioral skills and persona switches for AI coding agents",
-    "id": "venk-ee/agent-skills",
-    "language": "\u2014",
-    "name": "venk-ee/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:23:26Z",
-    "url": "https://github.com/venk-ee/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Yannis-Hu/workbuddy-skills",
-    "language": "\u2014",
-    "name": "Yannis-Hu/workbuddy-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:23:17Z",
-    "url": "https://github.com/Yannis-Hu/workbuddy-skills"
-  },
-  {
-    "description": "",
-    "id": "CodeCraftersTeam01/SkillSphere",
-    "language": "EJS",
-    "name": "CodeCraftersTeam01/SkillSphere",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:22:49Z",
-    "url": "https://github.com/CodeCraftersTeam01/SkillSphere"
-  },
-  {
-    "description": "Medical/imaging research skills for Grok \u2014 core 00\u201306, archive packs, manuscript polish & review",
-    "id": "loopnownow/MY-SKILLS",
-    "language": "Python",
-    "name": "loopnownow/MY-SKILLS",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:22:13Z",
-    "url": "https://github.com/loopnownow/MY-SKILLS"
-  },
-  {
     "description": "Exercise: Agentic Workflows That Read the Room",
-    "id": "payaldiwan24/skills-agentic-workflows-that-read-the-room24",
+    "id": "leszek95/skills-agentic-workflows-that-read-the-room",
     "language": "Astro",
-    "name": "payaldiwan24/skills-agentic-workflows-that-read-the-room24",
+    "name": "leszek95/skills-agentic-workflows-that-read-the-room",
     "stars": 0,
-    "updated_at": "2026-10-18T08:22:12Z",
-    "url": "https://github.com/payaldiwan24/skills-agentic-workflows-that-read-the-room24"
+    "updated_at": "2026-10-18T08:44:24Z",
+    "url": "https://github.com/leszek95/skills-agentic-workflows-that-read-the-room"
+  },
+  {
+    "description": "",
+    "id": "shihao-hub/td-agents-skills",
+    "language": "JavaScript",
+    "name": "shihao-hub/td-agents-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:44:09Z",
+    "url": "https://github.com/shihao-hub/td-agents-skills"
+  },
+  {
+    "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
+    "id": "2016asadali/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "language": "\u2014",
+    "name": "2016asadali/skills-scale-institutional-knowledge-using-copilot-spaces",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:44:02Z",
+    "url": "https://github.com/2016asadali/skills-scale-institutional-knowledge-using-copilot-spaces"
+  },
+  {
+    "description": "Claude skills for SPIP",
+    "id": "epilibre-design/spip-skills",
+    "language": "PHP",
+    "name": "epilibre-design/spip-skills",
+    "stars": 5,
+    "updated_at": "2026-10-18T08:43:40Z",
+    "url": "https://github.com/epilibre-design/spip-skills"
+  },
+  {
+    "description": "Universal Agent Skills",
+    "id": "Knuckles-Team/universal-skills",
+    "language": "Python",
+    "name": "Knuckles-Team/universal-skills",
+    "stars": 4,
+    "updated_at": "2026-10-18T08:43:34Z",
+    "url": "https://github.com/Knuckles-Team/universal-skills"
+  },
+  {
+    "description": "Public Claude skills for working with DreamLake (artifacts authoring + CLI)",
+    "id": "dreamlake-ai/dreamlake-skills",
+    "language": "Python",
+    "name": "dreamlake-ai/dreamlake-skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:43:30Z",
+    "url": "https://github.com/dreamlake-ai/dreamlake-skills"
+  },
+  {
+    "description": "\u4e2a\u4eba\u5de5\u7a0b\u601d\u8003\u6c89\u6dc0\u6210\u7684 skill \u96c6\u5408",
+    "id": "whinc/super-skills",
+    "language": "HTML",
+    "name": "whinc/super-skills",
+    "stars": 40,
+    "updated_at": "2026-10-18T08:43:29Z",
+    "url": "https://github.com/whinc/super-skills"
+  },
+  {
+    "description": "Portable agent skills and cross-platform plugin guides for UI reconstruction, web animation, and development workflows.",
+    "id": "sin6626/SinSkills",
+    "language": "JavaScript",
+    "name": "sin6626/SinSkills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:43:13Z",
+    "url": "https://github.com/sin6626/SinSkills"
+  },
+  {
+    "description": "",
+    "id": "ynsr/ynsr-skills",
+    "language": "Python",
+    "name": "ynsr/ynsr-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:43:07Z",
+    "url": "https://github.com/ynsr/ynsr-skills"
+  },
+  {
+    "description": "",
+    "id": "jeasonholders089-cell/skillskr",
+    "language": "\u2014",
+    "name": "jeasonholders089-cell/skillskr",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:43:06Z",
+    "url": "https://github.com/jeasonholders089-cell/skillskr"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 70,
+    "updated_at": "2026-10-18T08:42:57Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
+    "description": "Source-backed Seedance 2.5 video prompts with real result clips, continuous storytelling, audio timing, and multilingual",
+    "id": "imagineVid/Awesome-seedance-2-5-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-seedance-2-5-prompts-and-skills",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:42:55Z",
+    "url": "https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills"
+  },
+  {
+    "description": "\u4e01\u78ca.skill \u2014 \u4ea7\u54c1\u54c1\u5473/\u6162\u516c\u53f8/\u4e0d\u8ddf\u98ce\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/dinglei-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/dinglei-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:41Z",
+    "url": "https://github.com/nuwa-skills/dinglei-skill"
+  },
+  {
+    "description": "Collection of personal agent skills for my various tasks",
+    "id": "TMYTiMidlY/skills",
+    "language": "Python",
+    "name": "TMYTiMidlY/skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:42:41Z",
+    "url": "https://github.com/TMYTiMidlY/skills"
+  },
+  {
+    "description": "Free SEO, GEO & AEO agent skills (SKILL.md) for Claude Code, Codex & Cursor: keyword clustering, search intent, cannibal",
+    "id": "cygnixlabs-cmd/cygnix-seo-skills",
+    "language": "Python",
+    "name": "cygnixlabs-cmd/cygnix-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:19Z",
+    "url": "https://github.com/cygnixlabs-cmd/cygnix-seo-skills"
+  },
+  {
+    "description": "\u5f20\u96ea.skill \u2014 \u5f20\u96ea\u673a\u8f66\u521b\u59cb\u4eba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf\u30025\u4e2a\u6838\u5fc3\u5fc3\u667a\u6a21\u578b\u30018\u6761\u51b3\u7b56\u542f\u53d1\u5f0f\u548c\u5b8c\u6574\u8868\u8fbeDNA\u3002",
+    "id": "nuwa-skills/zhangxue-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/zhangxue-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:16Z",
+    "url": "https://github.com/nuwa-skills/zhangxue-skill"
+  },
+  {
+    "description": "Post-GWAS analysis skills for AI coding agents: MR, colocalization, TWAS, and more",
+    "id": "zoebischuribe-cloud/postgwas-skills",
+    "language": "\u2014",
+    "name": "zoebischuribe-cloud/postgwas-skills",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:42:13Z",
+    "url": "https://github.com/zoebischuribe-cloud/postgwas-skills"
   },
   {
     "description": "\u041a\u0430\u0442\u0430\u043b\u043e\u0433 AI-\u0441\u043a\u0438\u043b\u043b\u043e\u0432: \u0447\u0442\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e, \u0447\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u043a\u0430\u0436\u0434\u044b\u0439 \u0438 \u043a\u043e\u0433\u0434\u0430 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442. \u041f\u0435\u0440\u0435\u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438.",
@@ -509,89 +212,17 @@
     "language": "HTML",
     "name": "trinitykir4-dot/skills-catalog",
     "stars": 0,
-    "updated_at": "2026-10-18T08:22:09Z",
+    "updated_at": "2026-10-18T08:42:10Z",
     "url": "https://github.com/trinitykir4-dot/skills-catalog"
   },
   {
-    "description": "Skills platform validation working instance \u2014 2nd team",
-    "id": "heymishy/skills-platform-val",
-    "language": "JavaScript",
-    "name": "heymishy/skills-platform-val",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:21:47Z",
-    "url": "https://github.com/heymishy/skills-platform-val"
-  },
-  {
-    "description": "My clone repository",
-    "id": "AffanMhz/skills-introduction-to-github",
+    "description": "\u6731\u71b9.skill \u2014 \u7406\u5b66/\u683c\u7269\u81f4\u77e5/\u8bfb\u4e66\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhuxi-skill",
     "language": "\u2014",
-    "name": "AffanMhz/skills-introduction-to-github",
+    "name": "nuwa-skills/zhuxi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:21:16Z",
-    "url": "https://github.com/AffanMhz/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "sukkyun2/my-skills",
-    "language": "Shell",
-    "name": "sukkyun2/my-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:20:54Z",
-    "url": "https://github.com/sukkyun2/my-skills"
-  },
-  {
-    "description": "Skills for Claude Code",
-    "id": "basitanwer/claude-skills",
-    "language": "TypeScript",
-    "name": "basitanwer/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:20:54Z",
-    "url": "https://github.com/basitanwer/claude-skills"
-  },
-  {
-    "description": "",
-    "id": "mgh3326/agent-skills",
-    "language": "Shell",
-    "name": "mgh3326/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:20:31Z",
-    "url": "https://github.com/mgh3326/agent-skills"
-  },
-  {
-    "description": "Skills",
-    "id": "svssdeva/agentic-skills",
-    "language": "JavaScript",
-    "name": "svssdeva/agentic-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:20:03Z",
-    "url": "https://github.com/svssdeva/agentic-skills"
-  },
-  {
-    "description": "skills for coding agent",
-    "id": "jamesyang124/agent-skills",
-    "language": "Python",
-    "name": "jamesyang124/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-10-18T08:20:03Z",
-    "url": "https://github.com/jamesyang124/agent-skills"
-  },
-  {
-    "description": "TestChimp skill and plugin for coding agents: run QA with coverage signals, in-repo test plans and release governance.",
-    "id": "testchimphq/testchimp-skills",
-    "language": "Shell",
-    "name": "testchimphq/testchimp-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:48Z",
-    "url": "https://github.com/testchimphq/testchimp-skills"
-  },
-  {
-    "description": "",
-    "id": "zeeahsan-skills/wingdings-translator",
-    "language": "TypeScript",
-    "name": "zeeahsan-skills/wingdings-translator",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:42Z",
-    "url": "https://github.com/zeeahsan-skills/wingdings-translator"
+    "updated_at": "2026-10-18T08:42:08Z",
+    "url": "https://github.com/nuwa-skills/zhuxi-skill"
   },
   {
     "description": "\u8bf8\u845b\u4eae.skill \u2014 \u6218\u7565/\u8c0b\u7565/\u6cbb\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -599,7 +230,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/zhugeliang-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
+    "updated_at": "2026-10-18T08:42:07Z",
     "url": "https://github.com/nuwa-skills/zhugeliang-skill"
   },
   {
@@ -608,17 +239,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/zongqinghou-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
+    "updated_at": "2026-10-18T08:42:07Z",
     "url": "https://github.com/nuwa-skills/zongqinghou-skill"
-  },
-  {
-    "description": "\u6731\u71b9.skill \u2014 \u7406\u5b66/\u683c\u7269\u81f4\u77e5/\u8bfb\u4e66\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhuxi-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhuxi-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
-    "url": "https://github.com/nuwa-skills/zhuxi-skill"
   },
   {
     "description": "\u5e84\u5b50.skill \u2014 \u900d\u9065\u6e38/\u9f50\u7269\u8bba/\u5bd3\u8a00\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -626,62 +248,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/zhuangzi-skill",
     "stars": 1,
-    "updated_at": "2026-10-18T08:19:13Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/zhuangzi-skill"
-  },
-  {
-    "description": "\u5468\u9e3f\u794e.skill \u2014 \u5b89\u5168/\u7ea2\u8863\u6559\u4e3b/\u98a0\u8986\u5f0f\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhouhongyi-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhouhongyi-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:13Z",
-    "url": "https://github.com/nuwa-skills/zhouhongyi-skill"
-  },
-  {
-    "description": "\u5f20\u96ea.skill \u2014 \u5f20\u96ea\u673a\u8f66\u521b\u59cb\u4eba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf\u30025\u4e2a\u6838\u5fc3\u5fc3\u667a\u6a21\u578b\u30018\u6761\u51b3\u7b56\u542f\u53d1\u5f0f\u548c\u5b8c\u6574\u8868\u8fbeDNA\u3002",
-    "id": "nuwa-skills/zhangxue-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangxue-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:12Z",
-    "url": "https://github.com/nuwa-skills/zhangxue-skill"
-  },
-  {
-    "description": "\u5f20\u4e00\u9e23.skill \u2014 \u5ef6\u8fdf\u6ee1\u8db3/\u7b97\u6cd5\u601d\u7ef4/\u5168\u7403\u5316\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangyiming-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangyiming-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:12Z",
-    "url": "https://github.com/nuwa-skills/zhangyiming-skill"
-  },
-  {
-    "description": "",
-    "id": "chenyongle123/skills-toolkit",
-    "language": "Python",
-    "name": "chenyongle123/skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:12Z",
-    "url": "https://github.com/chenyongle123/skills-toolkit"
-  },
-  {
-    "description": "\u5f20\u5c45\u6b63.skill \u2014 \u6539\u9769/\u6267\u884c\u529b/\u5236\u5ea6\u8bbe\u8ba1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangjuzheng-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangjuzheng-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:11Z",
-    "url": "https://github.com/nuwa-skills/zhangjuzheng-skill"
-  },
-  {
-    "description": "\u66fe\u56fd\u85e9.skill \u2014 \u81ea\u6211\u7ba1\u7406/\u9886\u5bfc\u529b/\u9006\u5883\u7a81\u56f4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zengguofan-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zengguofan-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/zengguofan-skill"
   },
   {
     "description": "\u6768\u632f\u5b81.skill \u2014 \u7269\u7406\u4e4b\u7f8e/\u79d1\u5b66\u54c1\u5473/\u5bf9\u79f0\u6027\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -689,35 +257,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/yangzhenning-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/yangzhenning-skill"
-  },
-  {
-    "description": "\u4fde\u654f\u6d2a.skill \u2014 \u6559\u80b2\u521b\u4e1a/\u9006\u5883\u91cd\u751f/\u4ece\u7edd\u671b\u4e2d\u5bfb\u627e\u5e0c\u671b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/yuminhong-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/yuminhong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/yuminhong-skill"
-  },
-  {
-    "description": "\u5f20\u5c0f\u9f99.skill \u2014 \u6781\u7b80\u4ea7\u54c1/\u514b\u5236/\u7528\u5b8c\u5373\u8d70\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangxiaolong-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangxiaolong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/zhangxiaolong-skill"
-  },
-  {
-    "description": "\u5434\u519b.skill \u2014 \u6587\u660e\u4e4b\u5149/\u4fe1\u606f\u8bba\u601d\u7ef4/\u683c\u5c40/\u89c1\u8bc6\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wujun-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wujun-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:09Z",
-    "url": "https://github.com/nuwa-skills/wujun-skill"
   },
   {
     "description": "\u8340\u5b50.skill \u2014 \u6027\u6076\u8bba/\u793c\u6cd5\u5e76\u91cd/\u6559\u5316\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -725,62 +266,35 @@
     "language": "\u2014",
     "name": "nuwa-skills/xunzi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:09Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/xunzi-skill"
   },
   {
-    "description": "\u7ef4\u7279\u6839\u65af\u5766.skill \u2014 \u8bed\u8a00\u54f2\u5b66/\u903b\u8f91/\u6c89\u9ed8\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wittgenstein-skill",
+    "description": "\u5468\u9e3f\u794e.skill \u2014 \u5b89\u5168/\u7ea2\u8863\u6559\u4e3b/\u98a0\u8986\u5f0f\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhouhongyi-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/wittgenstein-skill",
+    "name": "nuwa-skills/zhouhongyi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:08Z",
-    "url": "https://github.com/nuwa-skills/wittgenstein-skill"
+    "updated_at": "2026-10-18T08:42:05Z",
+    "url": "https://github.com/nuwa-skills/zhouhongyi-skill"
   },
   {
-    "description": "\u6770\u514b\u00b7\u97e6\u5c14\u5947.skill \u2014 \u6570\u4e00\u6570\u4e8c/\u6d3b\u529b\u66f2\u7ebf/\u53d8\u9769\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/welch-skill",
+    "description": "\u5f20\u5c0f\u9f99.skill \u2014 \u6781\u7b80\u4ea7\u54c1/\u514b\u5236/\u7528\u5b8c\u5373\u8d70\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhangxiaolong-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/welch-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:07Z",
-    "url": "https://github.com/nuwa-skills/welch-skill"
-  },
-  {
-    "description": "\u8a79\u59c6\u65af\u00b7\u97e6\u4f2f.skill \u2014 NASA\u7ba1\u7406/\u963f\u6ce2\u7f57\u8ba1\u5212/\u79d1\u5b66\u884c\u653f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/webb-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/webb-skill",
+    "name": "nuwa-skills/zhangxiaolong-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:07Z",
-    "url": "https://github.com/nuwa-skills/webb-skill"
+    "updated_at": "2026-10-18T08:42:04Z",
+    "url": "https://github.com/nuwa-skills/zhangxiaolong-skill"
   },
   {
-    "description": "\u5b59\u5b50.skill \u2014 \u5175\u6cd5/\u6218\u7565\u601d\u7ef4/\u535a\u5f08\u8bba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/sunzi-skill",
+    "description": "\u5f20\u5c45\u6b63.skill \u2014 \u6539\u9769/\u6267\u884c\u529b/\u5236\u5ea6\u8bbe\u8ba1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhangjuzheng-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/sunzi-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/sunzi-skill"
-  },
-  {
-    "description": "\u738b\u9633\u660e.skill \u2014 \u77e5\u884c\u5408\u4e00/\u5fc3\u5b66/\u51b3\u7b56\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangyangming-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangyangming-skill",
-    "stars": 25,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/wangyangming-skill"
-  },
-  {
-    "description": "\u738b\u5174.skill \u2014 \u65e0\u8fb9\u754c/\u540e\u53d1\u5236\u4eba/\u957f\u671f\u4e3b\u4e49\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangxing-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangxing-skill",
+    "name": "nuwa-skills/zhangjuzheng-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/wangxing-skill"
+    "updated_at": "2026-10-18T08:42:03Z",
+    "url": "https://github.com/nuwa-skills/zhangjuzheng-skill"
   },
   {
     "description": "\u738b\u5065\u6797.skill \u2014 \u6562\u60f3\u6562\u505a/\u6267\u884c\u529b/\u76ee\u6807\u7ba1\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -788,7 +302,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangjianlin-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:05Z",
+    "updated_at": "2026-10-18T08:42:01Z",
     "url": "https://github.com/nuwa-skills/wangjianlin-skill"
   },
   {
@@ -797,8 +311,71 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangxiaobo-skill",
     "stars": 5,
-    "updated_at": "2026-10-18T08:19:05Z",
+    "updated_at": "2026-10-18T08:42:01Z",
     "url": "https://github.com/nuwa-skills/wangxiaobo-skill"
+  },
+  {
+    "description": "\u66fe\u56fd\u85e9.skill \u2014 \u81ea\u6211\u7ba1\u7406/\u9886\u5bfc\u529b/\u9006\u5883\u7a81\u56f4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zengguofan-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/zengguofan-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:42:01Z",
+    "url": "https://github.com/nuwa-skills/zengguofan-skill"
+  },
+  {
+    "description": "\u4fde\u654f\u6d2a.skill \u2014 \u6559\u80b2\u521b\u4e1a/\u9006\u5883\u91cd\u751f/\u4ece\u7edd\u671b\u4e2d\u5bfb\u627e\u5e0c\u671b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/yuminhong-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/yuminhong-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:00Z",
+    "url": "https://github.com/nuwa-skills/yuminhong-skill"
+  },
+  {
+    "description": "\u5434\u519b.skill \u2014 \u6587\u660e\u4e4b\u5149/\u4fe1\u606f\u8bba\u601d\u7ef4/\u683c\u5c40/\u89c1\u8bc6\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wujun-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wujun-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:59Z",
+    "url": "https://github.com/nuwa-skills/wujun-skill"
+  },
+  {
+    "description": "\u51af\u00b7\u8bfa\u4f9d\u66fc.skill \u2014 \u535a\u5f08\u8bba/\u8ba1\u7b97\u67b6\u6784/\u8de8\u5b66\u79d1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/vonneumann-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/vonneumann-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:57Z",
+    "url": "https://github.com/nuwa-skills/vonneumann-skill"
+  },
+  {
+    "description": "\u7ef4\u7279\u6839\u65af\u5766.skill \u2014 \u8bed\u8a00\u54f2\u5b66/\u903b\u8f91/\u6c89\u9ed8\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wittgenstein-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wittgenstein-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:57Z",
+    "url": "https://github.com/nuwa-skills/wittgenstein-skill"
+  },
+  {
+    "description": "\u738b\u9633\u660e.skill \u2014 \u77e5\u884c\u5408\u4e00/\u5fc3\u5b66/\u51b3\u7b56\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wangyangming-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wangyangming-skill",
+    "stars": 25,
+    "updated_at": "2026-10-18T08:41:56Z",
+    "url": "https://github.com/nuwa-skills/wangyangming-skill"
+  },
+  {
+    "description": "\u738b\u5174.skill \u2014 \u65e0\u8fb9\u754c/\u540e\u53d1\u5236\u4eba/\u957f\u671f\u4e3b\u4e49\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wangxing-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wangxing-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:56Z",
+    "url": "https://github.com/nuwa-skills/wangxing-skill"
   },
   {
     "description": "\u738b\u592b\u4e4b.skill \u2014 \u5b9e\u5b66/\u7ecf\u4e16\u81f4\u7528/\u552f\u7269\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -806,17 +383,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangfuzhi-skill",
     "stars": 1,
-    "updated_at": "2026-10-18T08:19:04Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/wangfuzhi-skill"
-  },
-  {
-    "description": "\u718a\u5f7c\u7279.skill \u2014 \u521b\u9020\u6027\u7834\u574f/\u4f01\u4e1a\u5bb6\u7cbe\u795e/\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/schumpeter-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/schumpeter-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
-    "url": "https://github.com/nuwa-skills/schumpeter-skill"
   },
   {
     "description": "\u738b\u4f20\u798f.skill \u2014 \u5de5\u7a0b\u5e08\u7cbe\u795e/\u5782\u76f4\u6574\u5408/\u6280\u672f\u4e3a\u738b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -824,7 +392,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangchuanfu-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/wangchuanfu-skill"
   },
   {
@@ -833,53 +401,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/walton-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/walton-skill"
-  },
-  {
-    "description": "",
-    "id": "GunserProMAx/SkillStartPro",
-    "language": "HTML",
-    "name": "GunserProMAx/SkillStartPro",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:02Z",
-    "url": "https://github.com/GunserProMAx/SkillStartPro"
-  },
-  {
-    "description": "\u56fe\u7075.skill \u2014 \u8ba1\u7b97\u601d\u7ef4/\u4eba\u5de5\u667a\u80fd/\u5bc6\u7801\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/turing-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/turing-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:02Z",
-    "url": "https://github.com/nuwa-skills/turing-skill"
-  },
-  {
-    "description": "\u51af\u00b7\u8bfa\u4f9d\u66fc.skill \u2014 \u535a\u5f08\u8bba/\u8ba1\u7b97\u67b6\u6784/\u8de8\u5b66\u79d1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/vonneumann-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/vonneumann-skill",
-    "stars": 2,
-    "updated_at": "2026-10-18T08:19:02Z",
-    "url": "https://github.com/nuwa-skills/vonneumann-skill"
-  },
-  {
-    "description": "\u6797\u7eb3\u65af\u00b7\u6258\u74e6\u5179.skill \u2014 \u5f00\u6e90/\u5de5\u7a0b\u7f8e\u5b66/\u52a1\u5b9e\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/torvalds-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/torvalds-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:01Z",
-    "url": "https://github.com/nuwa-skills/torvalds-skill"
-  },
-  {
-    "description": "\u6258\u5c14\u65af\u6cf0.skill \u2014 \u4eba\u6027/\u9053\u5fb7/\u53f2\u8bd7\u53d9\u4e8b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/tolstoy-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/tolstoy-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:01Z",
-    "url": "https://github.com/nuwa-skills/tolstoy-skill"
   },
   {
     "description": "\u5f7c\u5f97\u00b7\u8482\u5c14.skill \u2014 \u4ece0\u52301/\u5784\u65ad/\u9006\u5411\u601d\u8003\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -887,8 +410,35 @@
     "language": "\u2014",
     "name": "nuwa-skills/thiel-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:59Z",
+    "updated_at": "2026-10-18T08:41:52Z",
     "url": "https://github.com/nuwa-skills/thiel-skill"
+  },
+  {
+    "description": "\u56fe\u7075.skill \u2014 \u8ba1\u7b97\u601d\u7ef4/\u4eba\u5de5\u667a\u80fd/\u5bc6\u7801\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/turing-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/turing-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:52Z",
+    "url": "https://github.com/nuwa-skills/turing-skill"
+  },
+  {
+    "description": "\u6797\u7eb3\u65af\u00b7\u6258\u74e6\u5179.skill \u2014 \u5f00\u6e90/\u5de5\u7a0b\u7f8e\u5b66/\u52a1\u5b9e\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/torvalds-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/torvalds-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:51Z",
+    "url": "https://github.com/nuwa-skills/torvalds-skill"
+  },
+  {
+    "description": "skills for coding agent",
+    "id": "jamesyang124/agent-skills",
+    "language": "Python",
+    "name": "jamesyang124/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:51Z",
+    "url": "https://github.com/jamesyang124/agent-skills"
   },
   {
     "description": "\u9676\u884c\u77e5.skill \u2014 \u751f\u6d3b\u6559\u80b2/\u6559\u5b66\u505a\u5408\u4e00/\u4e61\u6751\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -896,7 +446,457 @@
     "language": "\u2014",
     "name": "nuwa-skills/taoxingzhi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:58Z",
+    "updated_at": "2026-10-18T08:41:51Z",
     "url": "https://github.com/nuwa-skills/taoxingzhi-skill"
+  },
+  {
+    "description": "\u5b59\u5b50.skill \u2014 \u5175\u6cd5/\u6218\u7565\u601d\u7ef4/\u535a\u5f08\u8bba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/sunzi-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/sunzi-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/sunzi-skill"
+  },
+  {
+    "description": "\u94c3\u6728\u654f\u6587.skill \u2014 7-Eleven/\u5355\u54c1\u7ba1\u7406/\u5047\u8bbe\u9a8c\u8bc1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/suzukitoshifumi-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/suzukitoshifumi-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/suzukitoshifumi-skill"
+  },
+  {
+    "description": "\u6258\u5c14\u65af\u6cf0.skill \u2014 \u4eba\u6027/\u9053\u5fb7/\u53f2\u8bd7\u53d9\u4e8b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/tolstoy-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/tolstoy-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/tolstoy-skill"
+  },
+  {
+    "description": "\u94c3\u6728\u4fca\u9686.skill \u2014 \u7985\u8005\u7684\u521d\u5fc3/\u5f53\u4e0b/\u7a7a\u676f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/suzuki-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/suzuki-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:49Z",
+    "url": "https://github.com/nuwa-skills/suzuki-skill"
+  },
+  {
+    "description": "\u82cf\u4e1c\u5761.skill \u2014 \u8c41\u8fbe/\u6587\u5b66/\u751f\u6d3b\u7f8e\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/sudongpo-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/sudongpo-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:49Z",
+    "url": "https://github.com/nuwa-skills/sudongpo-skill"
+  },
+  {
+    "description": "\u65af\u8482\u82ac\u00b7\u91d1.skill \u2014 \u5199\u4f5c/\u7eaa\u5f8b/\u6050\u60e7\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/stephenking-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/stephenking-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:47Z",
+    "url": "https://github.com/nuwa-skills/stephenking-skill"
+  },
+  {
+    "description": "\u4e00\u884c\u7985\u5e08.skill \u2014 \u6b63\u5ff5/\u5f53\u4e0b/\u548c\u5e73\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/thichnhathanh-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/thichnhathanh-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:46Z",
+    "url": "https://github.com/nuwa-skills/thichnhathanh-skill"
+  },
+  {
+    "description": "\u7279\u65af\u62c9.skill \u2014 \u53d1\u660e/\u60f3\u8c61\u529b/\u4ea4\u6d41\u7535\u601d\u7ef4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/tesla-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/tesla-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:43Z",
+    "url": "https://github.com/nuwa-skills/tesla-skill"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "shahdelwan0/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "shahdelwan0/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:44:59Z",
+    "url": "https://github.com/shahdelwan0/skills-introduction-to-github"
+  },
+  {
+    "description": "The agent skills, system prompt, and CLI toolkit I use every day with Claude Code and Codex.",
+    "id": "cskwork/skills",
+    "language": "HTML",
+    "name": "cskwork/skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:43Z",
+    "url": "https://github.com/cskwork/skills"
+  },
+  {
+    "description": "\u94c3\u6728\u654f\u592b.skill \u2014 \u5409\u535c\u529b\u5236\u4f5c\u4eba/\u5546\u4e1a\u4e0e\u827a\u672f\u5e73\u8861\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/suzukitoshio-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/suzukitoshio-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:43Z",
+    "url": "https://github.com/nuwa-skills/suzukitoshio-skill"
+  },
+  {
+    "description": "\u7d22\u7f57\u65af.skill \u2014 \u53cd\u8eab\u6027/\u91d1\u878d\u54f2\u5b66/\u5f00\u653e\u793e\u4f1a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/soros-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/soros-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:40Z",
+    "url": "https://github.com/nuwa-skills/soros-skill"
+  },
+  {
+    "description": "\u82cf\u683c\u62c9\u5e95.skill \u2014 \u63d0\u95ee\u672f/\u6279\u5224\u6027\u601d\u7ef4/\u8ba4\u77e5\u8c26\u900a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/socrates-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/socrates-skill",
+    "stars": 14,
+    "updated_at": "2026-10-18T08:41:40Z",
+    "url": "https://github.com/nuwa-skills/socrates-skill"
+  },
+  {
+    "description": "\u53f2\u7389\u67f1.skill \u2014 \u8425\u9500\u9b3c\u624d/\u4e1c\u5c71\u518d\u8d77/\u4eba\u6027\u6d1e\u5bdf\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/shiyuzhu-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/shiyuzhu-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:39Z",
+    "url": "https://github.com/nuwa-skills/shiyuzhu-skill"
+  },
+  {
+    "description": "\u9999\u519c.skill \u2014 \u4fe1\u606f\u8bba/\u5316\u7e41\u4e3a\u7b80/\u521b\u9020\u6027\u73a9\u800d\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/shannon-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/shannon-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:39Z",
+    "url": "https://github.com/nuwa-skills/shannon-skill"
+  },
+  {
+    "description": "\u718a\u5f7c\u7279.skill \u2014 \u521b\u9020\u6027\u7834\u574f/\u4f01\u4e1a\u5bb6\u7cbe\u795e/\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/schumpeter-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/schumpeter-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/schumpeter-skill"
+  },
+  {
+    "description": "\u53d4\u672c\u534e.skill \u2014 \u610f\u5fd7/\u60b2\u89c2\u4e3b\u4e49/\u5ba1\u7f8e\u89e3\u8131\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/schopenhauer-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/schopenhauer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/schopenhauer-skill"
+  },
+  {
+    "description": "\u585e\u6d85\u5361.skill \u2014 \u65af\u591a\u845b/\u4e66\u4fe1/\u65f6\u95f4\u7ba1\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/seneca-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/seneca-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/seneca-skill"
+  },
+  {
+    "description": "\u67cf\u62c9\u56fe.skill \u2014 \u7406\u5ff5\u8bba/\u54f2\u5b66\u5bf9\u8bdd/\u7406\u60f3\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/plato-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/plato-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/plato-skill"
+  },
+  {
+    "description": "\u4efb\u6b63\u975e.skill \u2014 \u7070\u5ea6\u7ba1\u7406/\u72fc\u6027/\u81ea\u6211\u6279\u5224\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/renzhengfei-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/renzhengfei-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/renzhengfei-skill"
+  },
+  {
+    "description": "\u94b1\u949f\u4e66.skill \u2014 \u535a\u5b66/\u8bbd\u523a/\u5b66\u672f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/qianzhongshu-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/qianzhongshu-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/qianzhongshu-skill"
+  },
+  {
+    "description": "\u6bd5\u52a0\u7d22.skill \u2014 \u521b\u9020\u529b/\u98ce\u683c\u53d8\u9769/\u591a\u4ea7\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/picasso-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/picasso-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:35Z",
+    "url": "https://github.com/nuwa-skills/picasso-skill"
+  },
+  {
+    "description": "\u83f2\u5c14\u00b7\u6770\u514b\u900a.skill \u2014 \u7985\u5e08/\u56e2\u961f/\u9886\u5bfc\u529b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/philjackson-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/philjackson-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:35Z",
+    "url": "https://github.com/nuwa-skills/philjackson-skill"
+  },
+  {
+    "description": "\u4fdd\u7f57\u00b7\u683c\u96f7\u5384\u59c6.skill \u2014 \u521b\u4e1a/\u9ed1\u5ba2\u7cbe\u795e/\u5199\u4f5c\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/pggraham-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/pggraham-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:34Z",
+    "url": "https://github.com/nuwa-skills/pggraham-skill"
+  },
+  {
+    "description": "\u4e54\u4e39\u00b7\u5f7c\u5f97\u68ee.skill \u2014 \u79e9\u5e8f/\u6df7\u6c8c/\u8d23\u4efb\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/peterson-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/peterson-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:34Z",
+    "url": "https://github.com/nuwa-skills/peterson-skill"
+  },
+  {
+    "description": "\u5965\u5a01\u5c14.skill \u2014 \u653f\u6cbb\u5199\u4f5c/\u6e05\u6670/\u771f\u76f8\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/orwell-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/orwell-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:33Z",
+    "url": "https://github.com/nuwa-skills/orwell-skill"
+  },
+  {
+    "description": "\u5927\u524d\u7814\u4e00.skill \u2014 \u6218\u7565\u601d\u7ef4/\u65e0\u56fd\u754c\u7ecf\u6d4e/\u95ee\u9898\u89e3\u51b3\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/ohmae-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/ohmae-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:33Z",
+    "url": "https://github.com/nuwa-skills/ohmae-skill"
+  },
+  {
+    "description": "\u5c3c\u91c7.skill \u2014 \u8d85\u4eba\u54f2\u5b66/\u6743\u529b\u610f\u5fd7/\u4ef7\u503c\u91cd\u4f30\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/nietzsche-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/nietzsche-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:41:32Z",
+    "url": "https://github.com/nuwa-skills/nietzsche-skill"
+  },
+  {
+    "description": "\u6751\u4e0a\u6625\u6811.skill \u2014 \u7eaa\u5f8b/\u957f\u8dd1/\u5b64\u72ec\u521b\u4f5c\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/murakami-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/murakami-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:32Z",
+    "url": "https://github.com/nuwa-skills/murakami-skill"
+  },
+  {
+    "description": "\u725b\u987f.skill \u2014 \u7b2c\u4e00\u6027\u539f\u7406/\u6570\u5b66\u601d\u7ef4/\u7cfb\u7edf\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/newton-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/newton-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:32Z",
+    "url": "https://github.com/nuwa-skills/newton-skill"
+  },
+  {
+    "description": "\u62ff\u7834\u4ed1.skill \u2014 \u519b\u4e8b/\u6218\u7565/\u6267\u884c\u529b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/napoleon-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/napoleon-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:32Z",
+    "url": "https://github.com/nuwa-skills/napoleon-skill"
+  },
+  {
+    "description": "\u58a8\u5b50.skill \u2014 \u517c\u7231/\u975e\u653b/\u5de5\u7a0b\u601d\u7ef4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mozi-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mozi-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:31Z",
+    "url": "https://github.com/nuwa-skills/mozi-skill"
+  },
+  {
+    "description": "\u8fc8\u514b\u5c14\u00b7\u4e54\u4e39.skill \u2014 \u7ade\u4e89/\u6781\u81f4/\u5fc3\u7406\u97e7\u6027\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mjordan-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mjordan-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:30Z",
+    "url": "https://github.com/nuwa-skills/mjordan-skill"
+  },
+  {
+    "description": "\u8499\u7530.skill \u2014 \u968f\u7b14/\u81ea\u6211\u8ba4\u77e5/\u6000\u7591\u7cbe\u795e\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/montaigne-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/montaigne-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:30Z",
+    "url": "https://github.com/nuwa-skills/montaigne-skill"
+  },
+  {
+    "description": "\u8499\u7279\u68ad\u5229.skill \u2014 \u513f\u7ae5\u6559\u80b2/\u81ea\u4e3b\u5b66\u4e60/\u73af\u5883\u8bbe\u8ba1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/montessori-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/montessori-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:30Z",
+    "url": "https://github.com/nuwa-skills/montessori-skill"
+  },
+  {
+    "description": "\u7c73\u585e\u65af.skill \u2014 \u4eba\u7684\u884c\u4e3a/\u5965\u5730\u5229\u5b66\u6d3e/\u903b\u8f91\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mises-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mises-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:29Z",
+    "url": "https://github.com/nuwa-skills/mises-skill"
+  },
+  {
+    "description": "\u5bab\u5d0e\u9a8f.skill \u2014 \u52a8\u753b/\u81ea\u7136/\u60f3\u8c61\u529b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/miyazaki-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/miyazaki-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:29Z",
+    "url": "https://github.com/nuwa-skills/miyazaki-skill"
+  },
+  {
+    "description": "Exercise: Work with Workflow Artifacts",
+    "id": "ysjj/skills-workflow-artifacts",
+    "language": "JavaScript",
+    "name": "ysjj/skills-workflow-artifacts",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:29Z",
+    "url": "https://github.com/ysjj/skills-workflow-artifacts"
+  },
+  {
+    "description": "\u5951\u514b\u68ee\u7c73\u54c8\u8d56.skill \u2014 \u5fc3\u6d41/\u6700\u4f18\u4f53\u9a8c/\u5185\u5728\u52a8\u673a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mihaly-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mihaly-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:28Z",
+    "url": "https://github.com/nuwa-skills/mihaly-skill"
+  },
+  {
+    "description": "\u7f57\u4f2f\u7279\u00b7\u9ea6\u57fa.skill \u2014 \u6545\u4e8b\u7ed3\u6784/\u7f16\u5267\u65b9\u6cd5\u8bba/\u53d9\u4e8b\u539f\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mckee-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mckee-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:28Z",
+    "url": "https://github.com/nuwa-skills/mckee-skill"
+  },
+  {
+    "description": "",
+    "id": "plamen911/fire-service-skills",
+    "language": "Python",
+    "name": "plamen911/fire-service-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:27Z",
+    "url": "https://github.com/plamen911/fire-service-skills"
+  },
+  {
+    "description": "\u970d\u534e\u5fb7\u00b7\u9a6c\u514b\u65af.skill \u2014 \u5468\u671f/\u7b2c\u4e8c\u5c42\u601d\u7ef4/\u98ce\u9669\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/marks-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/marks-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:41:27Z",
+    "url": "https://github.com/nuwa-skills/marks-skill"
+  },
+  {
+    "description": "\u9a6c\u4e91.skill \u2014 \u613f\u666f\u9a71\u52a8/\u751f\u6001\u7cfb\u7edf/\u8ba9\u5929\u4e0b\u6ca1\u6709\u96be\u505a\u7684\u751f\u610f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mayun-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mayun-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:27Z",
+    "url": "https://github.com/nuwa-skills/mayun-skill"
+  },
+  {
+    "description": "\u66fc\u5fb7\u62c9.skill \u2014 \u548c\u89e3/\u575a\u97e7/\u5bbd\u6055\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mandela-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mandela-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:26Z",
+    "url": "https://github.com/nuwa-skills/mandela-skill"
+  },
+  {
+    "description": "\u9a6c\u57fa\u96c5\u7ef4\u5229.skill \u2014 \u6743\u529b/\u73b0\u5b9e\u4e3b\u4e49/\u541b\u4e3b\u8bba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/machiavelli-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/machiavelli-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:26Z",
+    "url": "https://github.com/nuwa-skills/machiavelli-skill"
+  },
+  {
+    "description": "\u9a6c\u5316\u817e.skill \u2014 \u4ea7\u54c1\u601d\u7ef4/\u793e\u4ea4\u8fde\u63a5/\u5c0f\u6b65\u5feb\u8dd1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/mahuateng-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/mahuateng-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:25Z",
+    "url": "https://github.com/nuwa-skills/mahuateng-skill"
+  },
+  {
+    "description": "\u9c81\u8fc5.skill \u2014 \u6279\u5224/\u56fd\u6c11\u6027/\u6742\u6587\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/luxun-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/luxun-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:25Z",
+    "url": "https://github.com/nuwa-skills/luxun-skill"
+  },
+  {
+    "description": "\u5f7c\u5f97\u00b7\u6797\u5947.skill \u2014 \u751f\u6d3b\u9009\u80a1/\u5341\u500d\u80a1/\u4e1a\u4f59\u4f18\u52bf\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/lynch-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/lynch-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:25Z",
+    "url": "https://github.com/nuwa-skills/lynch-skill"
+  },
+  {
+    "description": "\u674e\u5f66\u5b8f.skill \u2014 \u6280\u672f\u4fe1\u4ef0/\u641c\u7d22/AI\u8f6c\u578b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/liyanhong-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/liyanhong-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:24Z",
+    "url": "https://github.com/nuwa-skills/liyanhong-skill"
+  },
+  {
+    "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works",
+    "id": "tronghieu/agent-skills",
+    "language": "Python",
+    "name": "tronghieu/agent-skills",
+    "stars": 81,
+    "updated_at": "2026-10-18T08:41:24Z",
+    "url": "https://github.com/tronghieu/agent-skills"
   }
 ]
