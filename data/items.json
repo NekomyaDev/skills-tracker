@@ -1,12 +1,12 @@
 [
   {
-    "description": "Opinionated agent skills",
-    "id": "vivienm/skills",
+    "description": "Growth marketing skills for customer acquisition, funnel optimisation, experimentation, growth loops, activation, retent",
+    "id": "afeezadebayo/growth-marketing-skills",
     "language": "\u2014",
-    "name": "vivienm/skills",
+    "name": "afeezadebayo/growth-marketing-skills",
     "stars": 0,
-    "updated_at": "2026-10-19T19:15:25Z",
-    "url": "https://github.com/vivienm/skills"
+    "updated_at": "2026-10-19T19:15:47Z",
+    "url": "https://github.com/afeezadebayo/growth-marketing-skills"
   },
   {
     "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
@@ -14,17 +14,62 @@
     "language": "JavaScript",
     "name": "jlewandowski13/skills-integrate-mcp-with-copilot",
     "stars": 0,
-    "updated_at": "2026-10-19T19:15:20Z",
+    "updated_at": "2026-10-19T19:15:42Z",
     "url": "https://github.com/jlewandowski13/skills-integrate-mcp-with-copilot"
   },
   {
-    "description": "Growth marketing skills for customer acquisition, funnel optimisation, experimentation, growth loops, activation, retent",
-    "id": "afeezadebayo/growth-marketing-skills",
+    "description": "Vidova MCP server and skills: an AI video editor your agent drives. Claude Code, Codex, Cursor, Copilot, Gemini CLI, Kir",
+    "id": "youneslaaroussi/vidova-skills",
     "language": "\u2014",
-    "name": "afeezadebayo/growth-marketing-skills",
+    "name": "youneslaaroussi/vidova-skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T19:15:39Z",
+    "url": "https://github.com/youneslaaroussi/vidova-skills"
+  },
+  {
+    "description": "Claude Code plugins by Bernardo Rubin",
+    "id": "bernardorubin/claudio-skills",
+    "language": "TypeScript",
+    "name": "bernardorubin/claudio-skills",
+    "stars": 3,
+    "updated_at": "2026-10-19T19:15:38Z",
+    "url": "https://github.com/bernardorubin/claudio-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 40,
+    "updated_at": "2026-10-19T19:15:38Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "\u7ec4\u7ec7\u7ea7\u81ea\u52a8\u5316 Actions\uff1a\u6bcf\u5c0f\u65f6\u5c06\u7ec4\u7ec7\u5185\u6240\u6709 fork \u4ece\u4e0a\u6e38\u540c\u6b65\u3001\u628a\u5168\u90e8\u4ed3\u5e93\u955c\u50cf\u5230 Gitee\uff0c\u5e76\u7981\u7528 fork \u5e26\u6765\u7684 workflow",
+    "id": "farfarfun-skills/action-daily",
+    "language": "\u2014",
+    "name": "farfarfun-skills/action-daily",
     "stars": 0,
-    "updated_at": "2026-10-19T19:15:20Z",
-    "url": "https://github.com/afeezadebayo/growth-marketing-skills"
+    "updated_at": "2026-10-19T19:15:34Z",
+    "url": "https://github.com/farfarfun-skills/action-daily"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 25,
+    "updated_at": "2026-10-19T19:15:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Opinionated agent skills",
+    "id": "vivienm/skills",
+    "language": "\u2014",
+    "name": "vivienm/skills",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:15:25Z",
+    "url": "https://github.com/vivienm/skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "ChicoState/skillstreak",
     "stars": 0,
-    "updated_at": "2026-10-19T19:14:06Z",
+    "updated_at": "2026-10-19T19:15:57Z",
     "url": "https://github.com/ChicoState/skillstreak"
   },
   {
@@ -545,7 +590,7 @@
     "language": "Python",
     "name": "coreweave/skills",
     "stars": 1,
-    "updated_at": "2026-10-19T19:10:34Z",
+    "updated_at": "2026-10-19T19:15:36Z",
     "url": "https://github.com/coreweave/skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 8,
     "updated_at": "2026-10-19T19:01:24Z",
     "url": "https://github.com/ccomkhj/skills"
-  },
-  {
-    "description": "Agent skills for planning, building, verifying, and reviewing code. Installable as a Claude Code plugin.",
-    "id": "JuroUhlar/skills",
-    "language": "TypeScript",
-    "name": "JuroUhlar/skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:01:23Z",
-    "url": "https://github.com/JuroUhlar/skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "mehmetmetinerdemli/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "mehmetmetinerdemli/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:14:31Z",
-    "url": "https://github.com/mehmetmetinerdemli/skills-introduction-to-github"
-  },
-  {
-    "description": "SkillSphere is an educational organization focused on skill development and knowledge enhancement. It aims to develop es",
-    "id": "Brajesh31/SkillSphere",
-    "language": "JavaScript",
-    "name": "Brajesh31/SkillSphere",
-    "stars": 11,
-    "updated_at": "2026-10-19T19:01:03Z",
-    "url": "https://github.com/Brajesh31/SkillSphere"
-  },
-  {
-    "description": "",
-    "id": "frankausberlin/luxus-skills",
-    "language": "Shell",
-    "name": "frankausberlin/luxus-skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:00:59Z",
-    "url": "https://github.com/frankausberlin/luxus-skills"
-  },
-  {
-    "description": "A modular AI skill library for software engineers \u2014 37 SKILL.md files covering technical, soft, and career skills for Gi",
-    "id": "jakirhussainkhan/dev-skills",
-    "language": "\u2014",
-    "name": "jakirhussainkhan/dev-skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:00:41Z",
-    "url": "https://github.com/jakirhussainkhan/dev-skills"
   }
 ]
