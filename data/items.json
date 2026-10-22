@@ -1,5 +1,77 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "GoldenWordApp/skills-introduction-to-git",
+    "language": "\u2014",
+    "name": "GoldenWordApp/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:31:16Z",
+    "url": "https://github.com/GoldenWordApp/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "DN-OpenSource/claude-skills",
+    "language": "Python",
+    "name": "DN-OpenSource/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:31:08Z",
+    "url": "https://github.com/DN-OpenSource/claude-skills"
+  },
+  {
+    "description": "\u89c6\u89c9\u98ce\u683c\u8bbe\u8ba1 Skill \u4e0e\u7ed8\u56fe Prompt\uff1aMSI 2021\u30012022\u30012023\u30012024\u30012026\u3002Style Atlas \u914d\u5957\u5de5\u5177\u5e93\u3002",
+    "id": "jiahuiyang511-dotcom/style-atlas-skills",
+    "language": "Python",
+    "name": "jiahuiyang511-dotcom/style-atlas-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:30:59Z",
+    "url": "https://github.com/jiahuiyang511-dotcom/style-atlas-skills"
+  },
+  {
+    "description": "",
+    "id": "carloscorpus/carlitos-skills",
+    "language": "JavaScript",
+    "name": "carloscorpus/carlitos-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:30:39Z",
+    "url": "https://github.com/carloscorpus/carlitos-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 26,
+    "updated_at": "2026-10-22T05:30:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 42,
+    "updated_at": "2026-10-22T05:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "A curated collector of [Claude](https://claude.com/claude-code) skills worth installing almost everywhere \u2014 a mix of ope",
+    "id": "justcallmegreg/claude-skills",
+    "language": "Shell",
+    "name": "justcallmegreg/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:30:25Z",
+    "url": "https://github.com/justcallmegreg/claude-skills"
+  },
+  {
+    "description": "Personal agent skills (installed with npx skills)",
+    "id": "EnderWolf50/skills",
+    "language": "Python",
+    "name": "EnderWolf50/skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:30:44Z",
+    "url": "https://github.com/EnderWolf50/skills"
+  },
+  {
     "description": "Claude Code plugins by Bernardo Rubin",
     "id": "bernardorubin/claudio-skills",
     "language": "TypeScript",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "EJRyan89/coding-agent-skills",
     "stars": 2,
-    "updated_at": "2026-10-22T05:28:22Z",
+    "updated_at": "2026-10-22T05:30:48Z",
     "url": "https://github.com/EJRyan89/coding-agent-skills"
   },
   {
@@ -176,7 +248,7 @@
     "language": "\u2014",
     "name": "yusuketerasaka/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-10-22T05:27:54Z",
+    "updated_at": "2026-10-22T05:31:15Z",
     "url": "https://github.com/yusuketerasaka/skills-introduction-to-github"
   },
   {
@@ -239,7 +311,7 @@
     "language": "\u2014",
     "name": "junwata0811/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-10-22T05:29:15Z",
+    "updated_at": "2026-10-22T05:30:49Z",
     "url": "https://github.com/junwata0811/skills-introduction-to-github"
   },
   {
@@ -394,15 +466,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:25:04Z",
     "url": "https://github.com/nanostack-dev/skills"
-  },
-  {
-    "description": "",
-    "id": "carloscorpus/carlitos-skills",
-    "language": "JavaScript",
-    "name": "carloscorpus/carlitos-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:30:23Z",
-    "url": "https://github.com/carloscorpus/carlitos-skills"
   },
   {
     "description": "",
@@ -835,68 +898,5 @@
     "stars": 17,
     "updated_at": "2026-10-22T05:17:27Z",
     "url": "https://github.com/zime-ai/zime-gtm-skills"
-  },
-  {
-    "description": "",
-    "id": "PamuduW/agentbot_skills",
-    "language": "JavaScript",
-    "name": "PamuduW/agentbot_skills",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:17:26Z",
-    "url": "https://github.com/PamuduW/agentbot_skills"
-  },
-  {
-    "description": "",
-    "id": "digibilityai/MappedSkills",
-    "language": "TypeScript",
-    "name": "digibilityai/MappedSkills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:17:21Z",
-    "url": "https://github.com/digibilityai/MappedSkills"
-  },
-  {
-    "description": "",
-    "id": "zenanswer/agent-skills",
-    "language": "Python",
-    "name": "zenanswer/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:17:21Z",
-    "url": "https://github.com/zenanswer/agent-skills"
-  },
-  {
-    "description": "Bilingual AI Agent Skills weekly rankings, powered by GitHub data and automated updates.",
-    "id": "xylopyrifer/github-skills-weekly",
-    "language": "JavaScript",
-    "name": "xylopyrifer/github-skills-weekly",
-    "stars": 4,
-    "updated_at": "2026-10-22T05:16:38Z",
-    "url": "https://github.com/xylopyrifer/github-skills-weekly"
-  },
-  {
-    "description": "find skills for Vercel",
-    "id": "claudiocamargo/find-skills",
-    "language": "HTML",
-    "name": "claudiocamargo/find-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:16:34Z",
-    "url": "https://github.com/claudiocamargo/find-skills"
-  },
-  {
-    "description": "SKILLSPACE \u2014 Your Online Working Space",
-    "id": "Juma1-hub/skillspace001",
-    "language": "HTML",
-    "name": "Juma1-hub/skillspace001",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:16:18Z",
-    "url": "https://github.com/Juma1-hub/skillspace001"
-  },
-  {
-    "description": "AI agent skills for content operations, knowledge management, and developer workflows. Compatible with Hermes Agent and ",
-    "id": "thedavidweng/skills",
-    "language": "Python",
-    "name": "thedavidweng/skills",
-    "stars": 11,
-    "updated_at": "2026-10-22T05:16:17Z",
-    "url": "https://github.com/thedavidweng/skills"
   }
 ]
