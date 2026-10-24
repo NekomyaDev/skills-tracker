@@ -1,5 +1,104 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T16:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills for vos: product demo videos from URLs, vos program authoring. npx skills add vosjs/skills",
+    "id": "vosjs/skills",
+    "language": "JavaScript",
+    "name": "vosjs/skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:45:22Z",
+    "url": "https://github.com/vosjs/skills"
+  },
+  {
+    "description": "",
+    "id": "ofmakers/skills",
+    "language": "\u2014",
+    "name": "ofmakers/skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:45:07Z",
+    "url": "https://github.com/ofmakers/skills"
+  },
+  {
+    "description": "I will be AI ",
+    "id": "albinjoby82-ops/Personal-Claude-Skills-",
+    "language": "Python",
+    "name": "albinjoby82-ops/Personal-Claude-Skills-",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:44:52Z",
+    "url": "https://github.com/albinjoby82-ops/Personal-Claude-Skills-"
+  },
+  {
+    "description": "Security skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini CLI): threat modelling, verified secur",
+    "id": "mbart75/appsec-skills",
+    "language": "Shell",
+    "name": "mbart75/appsec-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:44:35Z",
+    "url": "https://github.com/mbart75/appsec-skills"
+  },
+  {
+    "description": "Workmatik skills assessment mapped to EU AI requirements",
+    "id": "ScottStockwellWorkmatik/ai-skills-assessment",
+    "language": "JavaScript",
+    "name": "ScottStockwellWorkmatik/ai-skills-assessment",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:44:24Z",
+    "url": "https://github.com/ScottStockwellWorkmatik/ai-skills-assessment"
+  },
+  {
+    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
+    "id": "everyinfra/seo-skills",
+    "language": "Python",
+    "name": "everyinfra/seo-skills",
+    "stars": 2,
+    "updated_at": "2026-10-24T16:44:21Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "Personal AI skills: fact-checking, head-to-head comparisons, buying decisions, and trip planning",
+    "id": "bogart2020/ej-skills",
+    "language": "Shell",
+    "name": "bogart2020/ej-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:44:02Z",
+    "url": "https://github.com/bogart2020/ej-skills"
+  },
+  {
+    "description": "Vietnam Agentic Skills (VAS) - 2,650+ agentic skills chuy\u00ean s\u00e2u cho Google Antigravity. Zero-NPX, ch\u1ea1y offline b\u1eb1ng Pyth",
+    "id": "huytran1120/vietnam-agentic-skills",
+    "language": "Python",
+    "name": "huytran1120/vietnam-agentic-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:43:55Z",
+    "url": "https://github.com/huytran1120/vietnam-agentic-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 26,
+    "updated_at": "2026-10-24T16:43:49Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Official agent skills for the Solti Platform",
+    "id": "trysolti/skills",
+    "language": "\u2014",
+    "name": "trysolti/skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:43:43Z",
+    "url": "https://github.com/trysolti/skills"
+  },
+  {
     "description": "\u81ea\u5df1\u5728\u5404\u5927 Harness \u7528\u7684 Skills/Plugins \u5217\u8868",
     "id": "Moemu/skills",
     "language": "JavaScript",
@@ -99,15 +198,6 @@
     "url": "https://github.com/frankxai/AnimeLegends-Skills"
   },
   {
-    "description": "Vietnam Agentic Skills (VAS) - 2,650+ agentic skills chuy\u00ean s\u00e2u cho Google Antigravity. Zero-NPX, ch\u1ea1y offline b\u1eb1ng Pyth",
-    "id": "huytran1120/vietnam-agentic-skills",
-    "language": "Python",
-    "name": "huytran1120/vietnam-agentic-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:42:31Z",
-    "url": "https://github.com/huytran1120/vietnam-agentic-skills"
-  },
-  {
     "description": "",
     "id": "Marcel-Pereira/skills_marketplace",
     "language": "Python",
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:41:42Z",
     "url": "https://github.com/andreavitali/skills-customize-your-github-copilot-experience"
-  },
-  {
-    "description": "Agent skills for vos: product demo videos from URLs, vos program authoring. npx skills add vosjs/skills",
-    "id": "vosjs/skills",
-    "language": "JavaScript",
-    "name": "vosjs/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:41:52Z",
-    "url": "https://github.com/vosjs/skills"
   },
   {
     "description": "",
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:40:43Z",
     "url": "https://github.com/everyinfra/analysis-skills"
-  },
-  {
-    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T16:40:41Z",
-    "url": "https://github.com/everyinfra/seo-skills"
   },
   {
     "description": "My clone repository",
@@ -473,7 +545,7 @@
     "language": "Python",
     "name": "cbusillo/codex-skills",
     "stars": 5,
-    "updated_at": "2026-10-24T16:38:18Z",
+    "updated_at": "2026-10-24T16:44:16Z",
     "url": "https://github.com/cbusillo/codex-skills"
   },
   {
@@ -493,15 +565,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T16:39:17Z",
     "url": "https://github.com/shikanime-labs/skills"
-  },
-  {
-    "description": "",
-    "id": "ofmakers/skills",
-    "language": "\u2014",
-    "name": "ofmakers/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:38:06Z",
-    "url": "https://github.com/ofmakers/skills"
   },
   {
     "description": "Shared Pi coding agent skills for batch processing and automation pipelines",
@@ -563,7 +626,7 @@
     "language": "JavaScript",
     "name": "yutna/object-oriented-design-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T16:39:05Z",
+    "updated_at": "2026-10-24T16:44:04Z",
     "url": "https://github.com/yutna/object-oriented-design-skills"
   },
   {
@@ -581,7 +644,7 @@
     "language": "TypeScript",
     "name": "FeatherHunter/dsh-mattpocock-skills-deck",
     "stars": 224,
-    "updated_at": "2026-10-24T16:41:21Z",
+    "updated_at": "2026-10-24T16:44:46Z",
     "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck"
   },
   {
@@ -835,68 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:31:48Z",
     "url": "https://github.com/lexijamesesq/core-skills"
-  },
-  {
-    "description": "Claude Code skills for getting a change from a local checkout to GitHub: the publishing gate, house style checks, README",
-    "id": "lexijamesesq/publish-skills",
-    "language": "Shell",
-    "name": "lexijamesesq/publish-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:31:47Z",
-    "url": "https://github.com/lexijamesesq/publish-skills"
-  },
-  {
-    "description": "Lexi James's authorial voice, thinking models, and review rubric, as a Claude Code plugin.",
-    "id": "lexijamesesq/personal-skills",
-    "language": "\u2014",
-    "name": "lexijamesesq/personal-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:31:47Z",
-    "url": "https://github.com/lexijamesesq/personal-skills"
-  },
-  {
-    "description": "",
-    "id": "techzilla/skills",
-    "language": "jq",
-    "name": "techzilla/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:31:45Z",
-    "url": "https://github.com/techzilla/skills"
-  },
-  {
-    "description": "Agent Skills I've known and loved",
-    "id": "life-itself/skills",
-    "language": "Shell",
-    "name": "life-itself/skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:31:29Z",
-    "url": "https://github.com/life-itself/skills"
-  },
-  {
-    "description": "YuanGe (\u5143\u9601) \u2014 orchestration routing, inventory, and one-command installer for the YottaMeta skill family: route tasks to",
-    "id": "YottaMeta/yotta-skills",
-    "language": "JavaScript",
-    "name": "YottaMeta/yotta-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:31:26Z",
-    "url": "https://github.com/YottaMeta/yotta-skills"
-  },
-  {
-    "description": "A collection of Claude Code skills",
-    "id": "niconiahi/skills",
-    "language": "\u2014",
-    "name": "niconiahi/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:30:52Z",
-    "url": "https://github.com/niconiahi/skills"
-  },
-  {
-    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
-    "id": "konradre/video-production-skills",
-    "language": "Python",
-    "name": "konradre/video-production-skills",
-    "stars": 7,
-    "updated_at": "2026-10-24T16:30:44Z",
-    "url": "https://github.com/konradre/video-production-skills"
   }
 ]
