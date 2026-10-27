@@ -1,5 +1,41 @@
 [
   {
+    "description": "Esta pasta re\u00fane skills criadas por Thiago Rodrigues: conjuntos de instru\u00e7\u00f5es que orientam agentes de IA a executar tare",
+    "id": "tmrodrigues1/MinhasSkills",
+    "language": "\u2014",
+    "name": "tmrodrigues1/MinhasSkills",
+    "stars": 0,
+    "updated_at": "2026-10-27T02:00:55Z",
+    "url": "https://github.com/tmrodrigues1/MinhasSkills"
+  },
+  {
+    "description": "",
+    "id": "Tsegai20/ai-skills-bootcamp-Day-12-Ontology-Engine-v5",
+    "language": "\u2014",
+    "name": "Tsegai20/ai-skills-bootcamp-Day-12-Ontology-Engine-v5",
+    "stars": 0,
+    "updated_at": "2026-10-27T02:00:48Z",
+    "url": "https://github.com/Tsegai20/ai-skills-bootcamp-Day-12-Ontology-Engine-v5"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 44,
+    "updated_at": "2026-10-27T02:00:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 30,
+    "updated_at": "2026-10-27T02:00:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "suboss87/swap-skills",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "yasyf/cc-skills",
     "stars": 2,
-    "updated_at": "2026-10-27T01:59:05Z",
+    "updated_at": "2026-10-27T02:00:36Z",
     "url": "https://github.com/yasyf/cc-skills"
   },
   {
@@ -403,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T01:55:41Z",
     "url": "https://github.com/fate-forever/job-application-skills"
-  },
-  {
-    "description": "Esta pasta re\u00fane skills criadas por Thiago Rodrigues: conjuntos de instru\u00e7\u00f5es que orientam agentes de IA a executar tare",
-    "id": "tmrodrigues1/MinhasSkills",
-    "language": "\u2014",
-    "name": "tmrodrigues1/MinhasSkills",
-    "stars": 0,
-    "updated_at": "2026-10-27T01:55:37Z",
-    "url": "https://github.com/tmrodrigues1/MinhasSkills"
   },
   {
     "description": "Is it slop? Yes. Is it useful? Maybe...",
@@ -725,7 +752,7 @@
     "language": "Python",
     "name": "BigCactusLabs/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-27T01:49:04Z",
+    "updated_at": "2026-10-27T02:00:56Z",
     "url": "https://github.com/BigCactusLabs/agent-skills"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T01:46:00Z",
     "url": "https://github.com/neverbiasu/ccfddl-skills"
-  },
-  {
-    "description": "",
-    "id": "zehuichan/skills",
-    "language": "\u2014",
-    "name": "zehuichan/skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T01:45:54Z",
-    "url": "https://github.com/zehuichan/skills"
-  },
-  {
-    "description": "Fleet skill federation \u2014 contributors/darkhero + contributors/scar3",
-    "id": "scss1199/ai_fleet_skills",
-    "language": "Python",
-    "name": "scss1199/ai_fleet_skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T01:45:49Z",
-    "url": "https://github.com/scss1199/ai_fleet_skills"
-  },
-  {
-    "description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "id": "dotnet/skills",
-    "language": "C#",
-    "name": "dotnet/skills",
-    "stars": 5735,
-    "updated_at": "2026-10-27T01:45:32Z",
-    "url": "https://github.com/dotnet/skills"
   }
 ]
