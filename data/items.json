@@ -1,11 +1,38 @@
 [
   {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 30,
+    "updated_at": "2026-10-27T22:45:14Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-27T22:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "lhoezee/skills",
+    "language": "TypeScript",
+    "name": "lhoezee/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:45:04Z",
+    "url": "https://github.com/lhoezee/skills"
+  },
+  {
     "description": "Exercise: Review pull requests",
     "id": "Rodrigo-Vilchez/skills-review-pull-requests",
     "language": "HTML",
     "name": "Rodrigo-Vilchez/skills-review-pull-requests",
     "stars": 0,
-    "updated_at": "2026-10-27T22:45:00Z",
+    "updated_at": "2026-10-27T22:45:10Z",
     "url": "https://github.com/Rodrigo-Vilchez/skills-review-pull-requests"
   },
   {
@@ -774,15 +801,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 30,
-    "updated_at": "2026-10-27T22:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "pmbaumgartner/personal-skills",
     "language": "Python",
@@ -817,15 +835,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:30:18Z",
     "url": "https://github.com/vernongxq-prog/skills-news"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-27T22:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills to make the silicon sing.",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:29:14Z",
     "url": "https://github.com/RichiRodriguez/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Dataminr CTI skills for Claude, Codex and Copilot: threat intelligence management, playbook and agent building, and auto",
-    "id": "ThreatConnect-Inc/skills",
-    "language": "\u2014",
-    "name": "ThreatConnect-Inc/skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:28:59Z",
-    "url": "https://github.com/ThreatConnect-Inc/skills"
   }
 ]
